@@ -1,0 +1,9 @@
+praw==7.8.1
+python-dotenv
+pandas
+nltk
+vaderSentiment
+matplotlib
+seaborn
+wordcloud
+scikit-learn
