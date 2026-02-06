@@ -61,7 +61,7 @@ REDDIT_USER_AGENT=your_app_name_here
 ### 3. Install Dependencies
 
 Open your terminal in VS Code and run the following command to install the required Python libraries:
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ### 4. Run the Analysis
 
